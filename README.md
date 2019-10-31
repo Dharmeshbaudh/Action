@@ -2,3 +2,4 @@
 Get up
 run
 learn
+teach
