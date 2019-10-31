@@ -1,2 +1,3 @@
 # Action
 Get up
+run
